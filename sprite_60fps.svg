@@ -1,0 +1,987 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36240 240" width="36240" height="240">
+  <svg viewBox="0 0 240 240" width="240" height="240">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,322.2766742407958" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="240">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0.030202257384712612,322.2464719834111" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="480">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0.12241822585624958,322.15425601493956" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="720">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0.279161307035794,321.99751293376005" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="960">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0.5030844137134373,321.77358982708245" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="1200">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0.7969887261087087,321.47968551468716" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="1440">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="1.1638328926302444,321.1128413481656" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="1680">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="1.6067426506991145,320.6699315900967" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="1920">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="2.1290208253981753,320.14765341539766" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="2160">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="2.7341576404133465,319.5425166003825" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="2400">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="3.425841245511734,318.8508329952841" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="2640">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="4.20796832589536,318.0687059149005" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="2880">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="5.084654609027347,317.1920196317685" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="3120">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="6.06024502134815,316.2164292194477" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="3360">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="7.139323167573642,315.1373510732222" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="3600">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="8.326719705339418,313.9499545354564" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="3840">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="9.627519063619182,312.6491551771767" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="4080">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="11.047063799903803,311.22961044089203" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="4320">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="12.590955703566353,309.6857185372295" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="4560">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="14.265052526174816,308.011621714621" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="4800">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="16.07545894942096,306.20121529137487" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="5040">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="18.02851008516897,304.24816415562685" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="5280">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="20.130745440541876,302.14592880025396" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="5520">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="22.388870880295258,299.8878033605006" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="5760">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="24.809705694411527,297.4669685463843" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="6000">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="27.400111460038328,294.8765627807575" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="6240">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="30.166899022358812,292.10977521843705" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="6480">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="33.116709684009784,289.15996455678606" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="6720">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="36.255866696121664,286.0208075446742" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="6960">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="39.59019353367727,282.68648070711856" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="7200">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="43.12479640040818,279.15187784038767" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="7440">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="46.86381015923748,275.4128640815584" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,242.19667424079586" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="7680">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="50.81010963938988,271.466564601406" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0.0037065229730182327,242.19296771782282" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="7920">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="54.96499219423791,267.3116820465579" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0.06412893567284542,242.132545305123" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="8160">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="59.32784250223395,262.9488317385619" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0.20148800523498817,241.99518623556088" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="8400">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="63.895796698252894,258.3808775425429" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0.4198047556291646,241.77686948516669" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="8640">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="68.66342941294992,253.6132448278459" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0.7233870920794497,241.47328714871642" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="8880">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="73.62249315986908,248.65418108092675" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="1.116852516009786,241.0798217247861" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="9120">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="78.76174330289284,243.51493093790302" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="1.6051521191992948,240.59152212159657" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="9360">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="84.06688190099224,238.20979233980358" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="2.1935956570450283,240.00307858375086" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="9600">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="89.52064859682797,232.7560256439679" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="2.8878773668511037,239.30879687394477" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="9840">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="95.10307568748618,227.17359855330966" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="3.6941020119763603,238.5025722288195" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,120.11999999999999" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="10080">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="100.79190820368486,221.48476603711097" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="4.618810379872875,237.577863860923" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0.0009919420615067853,120.11900805793849" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="10320">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="106.56317042721714,215.7135038135787" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="5.669003120406917,236.52767112038896" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0.08929965299612473,120.03070034700387" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="10560">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="112.39184131374111,209.88483292705473" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="6.852161354044741,235.34451288675112" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0.3310371588643715,119.78896284113563" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="10800">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="118.25258674258411,204.0240874982117" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="8.176261875648775,234.02041236514708" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0.7427296175011243,119.37727038249888" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="11040">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="124.1204896343558,198.15618460644006" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="9.649783991878332,232.54689024891755" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="1.3433194106436468,118.77668058935636" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="11280">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="129.971721204539,192.30495303625685" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="11.281704018755063,230.9149702220408" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="2.154526700158028,117.96547329984197" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="11520">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="135.78410713913075,186.49256710166506" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="13.081472193355857,229.11520204744002" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="3.2012149871682505,116.91878501283175" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="11760">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="141.53755856101998,180.73911567977586" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="15.058965194914759,227.1377090458811" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="4.5117099968368795,115.60829000316313" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="12000">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="147.21435564335567,175.06231859744017" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="17.224405631928686,224.97226860886718" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="6.117971037119905,114.00202896288009" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="12240">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="152.7992881650522,169.47738607574362" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="19.588237800847665,222.6084364399482" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="8.05543100584726,112.06456899415274" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="12480">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="158.27966979735555,163.9970044434403" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="22.160946935004787,220.03572730579108" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="10.362190588876974,109.75780941112302" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="12720">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="163.6452504478589,158.63142379293694" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="24.952807391438064,217.2438668493578" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="13.077069633415775,107.04293036658423" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="12960">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="168.88805378470445,153.38862045609142" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="27.973544378972147,214.2231298618237" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="16.235821865599775,103.88417813440022" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="13200">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="174.00216612276137,148.2745081180345" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="31.231894867441035,210.96477937335484" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="19.864756514801314,100.25524348519869" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="13440">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="178.98349948359026,143.29317475720558" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="34.735057575702655,207.46161666509323" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="23.971430430353056,96.14856956964694" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="13680">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="183.82954708140323,138.4471271593926" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="38.48803106234443,203.70864317845144" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="28.53348634168472,91.58651365831528" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="13920">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="188.5391447013667,133.73752953942915" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="42.49285456343781,199.70381967735807" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="33.48925556310766,86.63074443689234" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="14160">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="193.1122470516454,129.16442718915044" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="46.7477892228061,195.4488850179898" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="38.736027679656296,81.3839723203437" stroke-dashoffset="120"/>
+    <path d="M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="14400">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="197.54972451212288,124.72694972867295" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="51.24650672490798,190.95016751588787" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="44.14071350976812,75.97928649023189" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="4.395061728395072,95.70493827160492" stroke-dashoffset="52.1975308642"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="14640">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="201.85318287184666,120.42349136894919" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="55.97738375410282,186.21929048669304" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="49.56128663729437,70.55871336270563" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="8.86822702331964,91.23177297668036" stroke-dashoffset="54.4341135117"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="14880">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="206.0248066030537,116.25186763774214" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="60.92302563885578,181.2736486019401" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="54.87020877802457,65.24979122197543" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="13.234224965706431,86.86577503429356" stroke-dashoffset="56.6171124829"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="15120">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="210.06722484767343,112.20944939312241" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="66.06014902454196,176.1365252162539" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="59.97017398754436,60.14982601245564" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="17.493055555555557,82.60694444444444" stroke-dashoffset="58.7465277778"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="15360">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="213.98339845254412,108.2932757882517" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="71.35992965106087,170.83674458973502" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="64.79851426436167,55.321485735638326" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="21.644718792866957,78.45528120713304" stroke-dashoffset="60.8223593964"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="15600">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="217.77652594594844,104.50014829484742" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="76.78886195669857,165.4078122840973" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="69.32302442054431,50.79697557945569" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="25.68921467764058,74.41078532235942" stroke-dashoffset="62.8446073388"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="15840">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="221.44996618256474,100.82670805823112" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="82.31008973871185,159.88658450208402" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="73.5341322494286,46.5858677505714" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="29.626543209876544,70.47345679012345" stroke-dashoffset="64.8132716049"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="16080">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="225.00717540218133,97.26949883861451" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="87.88507332864874,154.31160091214713" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="77.43707650489881,42.68292349510119" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="33.456704389574774,66.64329561042523" stroke-dashoffset="66.7283521948"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="16320">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="228.45165657831714,93.8250176624787" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="93.47538831935161,148.72128592144426" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="81.0457220464689,39.074277953531094" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="37.17969821673523,62.92030178326476" stroke-dashoffset="68.5898491084"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="16560">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="231.78691912512124,90.48975511567458" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="99.0444280850349,143.152246155761" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="84.37826951014209,35.74173048985791" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="40.79552469135803,59.30447530864197" stroke-dashoffset="70.3977623457"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="16800">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="235.01644724963163,87.2602269911642" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="104.55881395796798,137.6378602828279" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="87.45452998289274,32.66547001710727" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="44.304183813443075,55.79581618655693" stroke-dashoffset="72.1520919067"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="17040">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="238.1436754589489,84.13299878184692" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="109.98938924853138,132.20728499226448" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="90.2943139093735,29.825686090626498" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="47.70567558299037,52.39432441700963" stroke-dashoffset="73.8528377915"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="17280">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="241.1719699443029,81.10470429649294" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="115.31176000900426,126.8849142317916" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="92.91654918621025,27.203450813789747" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="51,49.1" stroke-dashoffset="75.5"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="17520">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="244.10461475874575,78.17205948205009" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="120.50642065884833,121.69025358194754" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="95.33885052579524,24.781149474204756" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="54.18715706447188,45.91284293552812" stroke-dashoffset="77.0935785322"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="17760">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="246.94480187879552,75.33187236200031" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="125.55855074219387,116.638123498602" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="97.57735592041388,22.542644079586125" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="57.26714677640603,42.83285322359397" stroke-dashoffset="78.6335733882"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="18000">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="249.6956243919674,72.58104984882843" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="130.4575874025891,111.73908683820677" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="99.64671417061288,20.473285829387123" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="60.239969135802475,39.860030864197526" stroke-dashoffset="80.1199845679"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="18240">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="252.36007218251623,69.91660205827962" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="135.1966730285538,107.00000121224208" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="101.56015281793088,18.559847182069113" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="63.105624142661185,36.99437585733881" stroke-dashoffset="81.5528120713"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="18480">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="254.94102959853984,67.33564464225601" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="139.7720588322845,102.42461540851136" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="103.32958462147684,16.790415378523168" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="65.86411179698214,34.23588820301785" stroke-dashoffset="82.9320558985"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="18720">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="257.44127467691106,64.8353995638848" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="144.18252183433626,98.01415240645962" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="104.96572846600063,15.154271533999374" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="68.51543209876543,31.58456790123457" stroke-dashoffset="84.2577160494"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="18960">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="259.8634795805133,62.413194660282535" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="148.4288308501911,93.76784339060477" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="106.478231306915,13.641768693084995" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="71.05958504801096,29.040414951989046" stroke-dashoffset="85.529792524"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="19200">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="262.21021196706596,60.066462273729904" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="152.51327956219217,89.68339467860372" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="107.87578412207974,12.24421587792027" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="73.49657064471877,26.60342935528123" stroke-dashoffset="86.7482853224"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="19440">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="264.48393706241046,57.7927371783854" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="156.4392923292724,85.75738191152348" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="109.16622855341767,10.953771446582333" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="75.82638888888889,24.273611111111116" stroke-dashoffset="87.9131944444"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="19680">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="266.68702025524976,55.58965398554609" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="160.21110050057996,81.98557374021591" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="110.35665303906961,9.763346960930384" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="78.04903978052123,22.050960219478778" stroke-dashoffset="89.0245198903"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="19920">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="268.8217300665336,53.45494417426226" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="163.83348262684433,78.36319161395156" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="111.45347840362945,8.666521596370554" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="80.1645233196159,19.935476680384102" stroke-dashoffset="90.0822616598"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="20160">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="270.89024137629275,51.38643286450311" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="167.31156003635238,74.88511420444348" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="112.46253348046076,7.657466519539242" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="82.17283950617286,17.92716049382713" stroke-dashoffset="91.0864197531"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="20400">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="272.8946388148802,49.38203542591568" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="170.65063886481815,71.54603537597771" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="113.38912162108677,6.730878378913223" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="84.07398834019206,16.02601165980794" stroke-dashoffset="92.0369941701"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="20640">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="274.83692024522526,47.439753995570555" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="173.8560901358168,68.34058410497909" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="114.23807904272172,5.881920957278277" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="85.86796982167355,14.232030178326449" stroke-dashoffset="92.9339849108"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="20880">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="276.7190002786573,45.55767396213857" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="176.9332604301224,65.26341381067347" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="115.01382595971664,5.1061740402833555" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="87.55478395061729,12.545216049382713" stroke-dashoffset="93.7773919753"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="21120">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="278.54271377976295,43.73396046103289" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="179.8874067754925,62.30926746530337" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="115.72041138722045,4.399588612779546" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="89.13443072702334,10.96556927297666" stroke-dashoffset="94.5672153635"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="21360">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="280.3098193261675,41.96685491462834" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="182.72365047002765,59.47302377076822" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="116.36155242425436,3.758447575745638" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="90.60691015089164,9.49308984910836" stroke-dashoffset="95.3034550754"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="21600">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="282.02200259751675,40.25467164327909" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="185.44694553821407,56.74972870258181" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="116.94066873485801,3.179331265141987" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="91.97222222222221,8.127777777777789" stroke-dashoffset="95.9861111111"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="21840">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="283.6808796746777,38.59579456611812" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="188.06205837410826,54.13461586668761" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="117.46091285881693,2.6590871411830763" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="93.23036694101509,6.869633058984903" stroke-dashoffset="96.6151834705"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="22080">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="285.2880002355525,36.988674005243354" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="190.57355584425042,51.62311839654545" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="117.92519690222085,2.1948030977791566" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="94.38134430727023,5.718655692729769" stroke-dashoffset="97.1906721536"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="22320">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="286.8448506381945,35.431823602601355" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="192.98579971213266,49.210874528663226" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="118.33621608470483,1.7837839152951673" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="95.42515432098764,4.674845679012362" stroke-dashoffset="97.7125771605"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="22560">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="288.35285688530536,33.92381735549049" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="195.30294572156564,46.89372851923022" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="118.69646955524294,1.4235304447570618" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="96.36179698216736,3.738203017832642" stroke-dashoffset="98.1808984911"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="22800">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="289.81338746686936,32.46328677392647" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="197.52894605529048,44.66772818550539" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="119.00827883157241,1.111721168427593" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="97.19127229080932,2.9087277091906727" stroke-dashoffset="98.5956361454"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="23040">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="291.22775607976746,31.048918161028364" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="199.66755418440883,42.52912005638705" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="119.27380416911997,0.846195830880032" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="97.9135802469136,2.1864197530864105" stroke-dashoffset="98.9567901235"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="23280">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="292.59722422482866,29.679450015967205" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="201.72233135868157,40.4743428821143" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="119.4950591228993,0.6249408771006947" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="98.5287208504801,1.5712791495198997" stroke-dashoffset="99.2643604252"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="23520">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="293.9230036830152,28.353670557780607" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="203.69665417039957,38.50002007039631" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="119.67392352944704,0.4460764705529606" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="99.03669410150893,1.0633058984910737" stroke-dashoffset="99.5183470508"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="23760">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="295.20625887336223,27.070415367433633" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="205.59372276607706,36.6029514747188" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="119.81215510467258,0.3078448953274203" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="99.4375,0.6624999999999991" stroke-dashoffset="99.71875"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="24000">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="296.44810909597874,25.828565144817123" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="207.41656938944664,34.78010485134924" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="119.91139982680392,0.2086001731960917" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="99.73113854595334,0.3688614540466538" stroke-dashoffset="99.865569273"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="24240">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="297.64963066390385,24.627043576891996" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="209.16806702315836,33.02860721763751" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="119.97320125077034,0.14679874922966174" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="99.91760973936898,0.18239026063101563" stroke-dashoffset="99.9588048697"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="24480">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="298.8118589279404,23.464815312855404" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="210.85093796082094,31.34573627997494" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="119.99900888081469,0.12099111918530958" stroke-dashoffset="120"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="0,100.1" stroke-dashoffset="50"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="99.99691358024691,0.10308641975308444" stroke-dashoffset="99.9984567901"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="24720">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="299.9357901987998,22.340884041996034" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="212.4677621899671,29.728912050828786" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="3.4875685871055886,96.61243141289441" stroke-dashoffset="51.7437842936"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="24960">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="301.02238357099765,21.25429066979822" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="214.02098550365213,28.175688737143744" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="7.982167352537761,92.11783264746224" stroke-dashoffset="53.9910836763"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="25200">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="302.07256265297735,20.204111587818485" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="215.51292728638867,26.683746954407198" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="12.369598765432105,87.73040123456789" stroke-dashoffset="56.1847993827"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="25440">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="303.0872172079138,19.189457032882075" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="216.9457879411052,25.250886299690663" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="16.649862825788773,83.45013717421122" stroke-dashoffset="58.3249314129"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="25680">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="304.0672047095781,18.209469531217735" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="218.32165593939268,23.8750183014032" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="20.822959533607715,79.2770404663923" stroke-dashoffset="60.4114797668"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="25920">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="305.01335181754604,17.26332242324978" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="219.64251448876547,22.554159752030397" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="24.88888888888888,75.21111111111112" stroke-dashoffset="62.4444444444"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="26160">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="305.9264557759027,16.350218464893164" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="220.91024781895854,21.286426421837323" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="28.847650891632387,71.25234910836761" stroke-dashoffset="64.4238254458"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="26400">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="306.80728573945123,15.469388501344628" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="222.12664709518455,20.07002714561132" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="32.69924554183813,67.40075445816186" stroke-dashoffset="66.3496227709"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="26640">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="307.656584031282,14.62009020951383" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="223.29341597035383,18.90325827044203" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="36.44367283950616,63.656327160493845" stroke-dashoffset="68.2218364198"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="26880">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="308.47506733538825,13.80160690540757" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="224.4121757909661,17.784498449829783" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="40.080932784636516,60.019067215363485" stroke-dashoffset="70.0404663923"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="27120">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="309.26342782785525,13.013246412940564" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="225.4844704730589,16.712203767736952" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="43.611025377229076,56.488974622770925" stroke-dashoffset="71.8055126886"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="27360">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="310.02233424997604,12.254339990819824" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="226.51177106551143,15.684903175284441" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="47.033950617283935,53.06604938271607" stroke-dashoffset="73.5169753086"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="27600">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="310.75243292648474,11.524241314311128" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="227.49548001834614,14.701194222449729" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="50.349708504801114,49.75029149519889" stroke-dashoffset="75.1748542524"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="27840">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="311.4543487319336,10.822325508862276" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="228.43693517361461,13.759739067181252" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="53.55829903978051,46.54170096021949" stroke-dashoffset="76.7791495199"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="28080">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="312.12868600807974,10.147988232716084" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="229.33741349609718,12.859260744698677" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="56.65972222222222,43.44027777777778" stroke-dashoffset="78.3298611111"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="28320">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="312.7760294349963,9.500644805799562" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="230.19813456049377,11.998539680302112" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="59.65397805212618,40.446021947873824" stroke-dashoffset="79.8269890261"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="28560">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="313.39694485847,8.879729382325818" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="231.0202638110956,11.176410429700276" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="62.541066529492454,37.55893347050755" stroke-dashoffset="81.2705332647"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="28800">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="313.99198007610977,8.284694164686094" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="231.80491560915164,10.39175863164424" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="65.32098765432099,34.77901234567901" stroke-dashoffset="82.6604938272"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="29040">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="314.56166558444863,7.715008656347225" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="232.55315608232917,9.6435181584667" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="67.99374142661179,32.10625857338821" stroke-dashoffset="83.9968707133"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="29280">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="315.1065152891987,7.170158951597169" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="233.26600578982797,8.930668450967888" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="70.5593278463649,29.540672153635107" stroke-dashoffset="85.2796639232"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="29520">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="315.6270271806875,6.649647060108353" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="233.94444221587426,8.252232024921613" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="73.01774691358025,27.08225308641975" stroke-dashoffset="86.5088734568"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="29760">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="316.12368397639483,6.152990264401034" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="234.5894021035027,7.607272137293174" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="75.36899862825788,24.731001371742124" stroke-dashoffset="87.6844993141"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="30000">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="316.5969537323914,5.6797205084044515" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="235.20178363974176,6.99489060105412" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="77.61308299039781,22.48691700960218" stroke-dashoffset="88.8065414952"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="30240">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="317.04729042538145,5.229383815414413" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="235.7824485025598,6.414225738236088" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="79.75000000000001,20.34999999999999" stroke-dashoffset="89.875"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="30480">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="317.47513450694805,4.80153973384777" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="236.33222377920828,5.86445046158759" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="81.77974965706447,18.32025034293553" stroke-dashoffset="90.8898748285"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="30720">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="317.8809134315101,4.395760809285712" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="236.8519037649161,5.344770475879778" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="83.70233196159124,16.397668038408753" stroke-dashoffset="91.8511659808"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="30960">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="318.2650421594093,4.0116320813865505" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="237.34225165024824,4.854422590547617" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="85.51774691358025,14.58225308641975" stroke-dashoffset="92.7588734568"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="31200">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="318.6279236364637,3.6487506043321383" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="237.80400110484163,4.392673135954251" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="87.22599451303155,12.874005486968453" stroke-dashoffset="93.6129972565"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="31440">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="318.9699492512475,3.3067249895483664" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="238.2378577646699,3.9588164761259605" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="88.8270747599451,11.272925240054887" stroke-dashoffset="94.41353738"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="31680">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="319.2914992712806,2.985174969515247" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="238.64450062946642,3.5521736113294455" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="90.32098765432099,9.779012345679005" stroke-dashoffset="95.1604938272"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="31920">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="319.59294325924577,2.6837309815500756" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="239.0245833764487,3.1720908643471755" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="91.70773319615915,8.392266803840853" stroke-dashoffset="95.8538665981"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="32160">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="319.8746404702838,2.402033770512052" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="239.37873559603753,2.8179386447583488" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="92.98731138545955,7.112688614540453" stroke-dashoffset="96.4936556927"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="32400">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="320.13694023135844,2.139734009437418" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="239.70756395484534,2.489110285950526" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="94.15972222222221,5.94027777777778" stroke-dashoffset="97.0798611111"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="32640">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="320.38018230362303,1.8964919371728004" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="240.01165329082184,2.1850209499740307" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="95.22496570644718,4.875034293552815" stroke-dashoffset="97.6124828532"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="32880">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="320.6046972286706,1.6719770121252682" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="240.291567645087,1.9051065957088629" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="96.18304183813444,3.916958161865558" stroke-dashoffset="98.0915209191"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="33120">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="320.8108066594942,1.465867581301669" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="240.54785123465098,1.6488230061448894" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="97.03395061728395,3.0660493827160518" stroke-dashoffset="98.5169753086"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="33360">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="320.9988236769418,1.2778505638540516" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="240.78102936991363,1.4156448708822564" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="97.77769204389574,2.3223079561042526" stroke-dashoffset="98.8888460219"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="33600">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="321.1690530924021,1.1076211483937335" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="240.99160932055517,1.2050649202406998" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="98.41426611796985,1.6857338820301604" stroke-dashoffset="99.207133059"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="33840">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="321.3217917374162,0.9548825033796188" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="241.18008113316796,1.0165931076279104" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="98.94367283950616,1.1563271604938419" stroke-dashoffset="99.4718364198"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="34080">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="321.4573287408733,0.8193454999225305" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="241.3469184037381,0.8497558370577676" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="99.3659122085048,0.7340877914952081" stroke-dashoffset="99.6829561043"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="34320">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="321.57594579440763,0.7007284463882267" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="241.49257900786398,0.7040952329318915" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="99.6809842249657,0.41901577503430365" stroke-dashoffset="99.8404921125"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="34560">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="321.67791740658436,0.5987568342114609" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="241.6175057913923,0.5791684494035958" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="99.8888888888889,0.21111111111110628" stroke-dashoffset="99.9444444444"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="34800">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="321.7635111464244,0.5131630943714528" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="241.72212722396324,0.47454701683262285" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120" fill="none" stroke="#000000" stroke-width="20"/>
+    <path d="M160 70v100" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="99.98962620027436,0.11037379972563813" stroke-dashoffset="99.9948131001"/>
+    <path d="M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="35040">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="321.8329878767908,0.4436863640050438" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="241.80685801778137,0.38981622301450525" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="35280">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="321.8866019781307,0.3900722626650916" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="241.87209971376478,0.3245745270310801" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="35520">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="321.9246015630373,0.35207267775857043" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="241.91824123707855,0.27843300371733504" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="35760">
+    <path d="M40 210V80c0-20 20-40 40-40h130" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="321.9472286820735,0.3294455587223303" stroke-dashoffset="321.9547195213"/>
+    <path d="M70 200h90c20 0 40-20 40-40V70" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="241.94565942391714,0.2510148168787273" stroke-dashoffset="241.9547195213"/>
+    <path d="M50 120h120M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+  <svg viewBox="0 0 240 240" width="240" height="240" x="36000">
+    <path d="M40 210V80c0-20 20-40 40-40h130M70 200h90c20 0 40-20 40-40V70M50 120h120M160 70v100M80 70v100" fill="none" stroke="#000000" stroke-width="20"/>
+  </svg>
+</svg>

@@ -1,0 +1,96 @@
+/* Style.css - or lack there of */
+
+/* Animation created with shapeshifter.design */
+
+@keyframes play150 {
+  0% {
+    background-position: 0px 0px;
+  }
+  20% {
+    background-position: 0px 0px;
+  }
+  80% {
+    background-position: -36000px 0px;
+  }
+  100% {
+    background-position: -36000px 0px;
+  }
+}
+
+@keyframes whyUdoThis{
+  /*
+  0% {
+    background-color: #ff0000;
+    color: #000000;
+  }
+  
+  12% {
+    background-color: #fcfc02;
+    color: #000000;
+  }
+  
+  33% {
+    background-color: #00ff00;
+    color: #000000;
+  }
+  
+  50% {
+    background-color: #02fcdf;
+    color: #000000;
+  }
+  
+  12% {
+    background-color: #fcfc02;
+    color: #000000;
+  }
+  
+  75% {
+    background-color: #0000ff;
+    color: #ffffff;
+  }
+  
+  100% {
+    background-color: #ff0000;
+    color: #000000;
+  }
+  */
+  0% {
+    background-color: #ff0000;
+    color: #000000;
+  }
+  
+  33% {
+    background-color: #00ff00;
+    color: #000000;
+  }
+  
+  66% {
+    background-color: #0000ff;
+    color: #ffffff;
+  }
+  
+  100% {
+    background-color: #ff0000;
+    color: #000000;
+  }
+}
+
+.butwhy {
+  animation-timing-function: linear;
+  animation: whyUdoThis 1.25s infinite steps(150);
+}
+
+.shapeshifter {
+  background-image: url(sprite_60fps.svg);
+  /*
+  animation-name: play150;
+  animation-duration: 3000ms;
+  animation-timing-function: steps(150);
+  */
+  
+  animation-timing-function: ease-in-out;
+  animation: play150 7s infinite alternate steps(150);
+  width: 240px;
+  height: 240px;
+  background-repeat: no-repeat;
+}
